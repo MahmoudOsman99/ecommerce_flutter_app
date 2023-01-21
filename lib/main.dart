@@ -21,6 +21,7 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       onGenerateRoute: onGenerate,
       initialRoute: AppRouts.bottomNavbarScreenRoute,
+
       // home: NewWidget(),
     );
   }
